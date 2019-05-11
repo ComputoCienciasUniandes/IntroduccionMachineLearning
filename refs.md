@@ -8,3 +8,6 @@ http://online.kitp.ucsb.edu/online/machine_c19/
 
 Geometric Deep Learning
 http://geometricdeeplearning.com/
+
+Interpretable Machine Learning
+https://christophm.github.io/interpretable-ml-book//
